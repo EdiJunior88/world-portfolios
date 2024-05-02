@@ -1,8 +1,8 @@
 repo_name: EdiJunior88/world-portfolios
-report_id: 372fdbf1a0a2984f442076a35d399161
+report_id: 92525131b7c29e0ae6feffc702b96053
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-04T14:38:22+00:00'
+timestamp: '2024-05-02T15:28:47+00:00'
 requested_by: ln-dev7
 provider: github
 branch: master
@@ -42,12 +42,12 @@ tools:
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
   detection_source_url: https://github.com/EdiJunior88/world-portfolios/blob/master/package.json
   detection_source: package.json
-  last_updated_by: LN
-  last_updated_on: 2023-11-06 16:00:24.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-03-18 08:08:06.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
-  version: 14.0.0
+  version: 14.2.3
   open_source: true
   hosted_saas: false
   category: Languages & Frameworks
@@ -73,7 +73,7 @@ tools:
 - name: React
   description: A JavaScript library for building user interfaces
   website_url: https://reactjs.org/
-  version: 18.2.0
+  version: 18.3.1
   license: MIT
   open_source: true
   hosted_saas: false
@@ -82,8 +82,8 @@ tools:
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
   detection_source_url: https://github.com/EdiJunior88/world-portfolios/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: LN
-  last_updated_on: 2023-11-06 16:00:24.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-03-18 08:08:06.000000000 Z
 - name: Sass
   description: Syntactically Awesome Style Sheets
   website_url: http://sass-lang.com/
@@ -121,9 +121,9 @@ tools:
   detection_source_url: https://github.com/EdiJunior88/world-portfolios
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
-  version: 3.1.0
+  version: 3.2.5
   license: MIT
   open_source: true
   hosted_saas: false
@@ -132,8 +132,8 @@ tools:
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
   detection_source_url: https://github.com/EdiJunior88/world-portfolios/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: Gabin Dongmo
-  last_updated_on: 2023-12-09 00:06:59.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-03-03 11:16:34.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -149,7 +149,7 @@ tools:
 - name: "@types/node"
   description: TypeScript definitions for Node.js
   package_url: https://www.npmjs.com/@types/node
-  version: 20.8.10
+  version: 20.11.24
   license: MIT
   open_source: true
   hosted_saas: false
@@ -158,8 +158,8 @@ tools:
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
   detection_source_url: https://github.com/EdiJunior88/world-portfolios/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: LN
-  last_updated_on: 2023-11-08 23:01:09.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-03-03 11:16:13.000000000 Z
 - name: "@types/react"
   description: TypeScript definitions for React
   package_url: https://www.npmjs.com/@types/react
@@ -172,12 +172,12 @@ tools:
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: https://github.com/EdiJunior88/world-portfolios/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: LN
-  last_updated_on: 2023-11-08 23:01:09.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-03-18 08:08:06.000000000 Z
 - name: "@types/react-dom"
   description: TypeScript definitions for React
   package_url: https://www.npmjs.com/@types/react-dom
-  version: 18.2.14
+  version: 18.3.0
   license: MIT
   open_source: true
   hosted_saas: false
@@ -186,12 +186,12 @@ tools:
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
   detection_source_url: https://github.com/EdiJunior88/world-portfolios/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: LN
-  last_updated_on: 2023-11-08 23:01:09.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-03-18 08:08:06.000000000 Z
 - name: "@types/uuid"
   description: TypeScript definitions for uuid
   package_url: https://www.npmjs.com/@types/uuid
-  version: 9.0.7
+  version: 9.0.8
   license: MIT
   open_source: true
   hosted_saas: false
@@ -200,12 +200,12 @@ tools:
   image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
   detection_source_url: https://github.com/EdiJunior88/world-portfolios/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: LN
-  last_updated_on: 2023-11-08 23:01:09.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-03-03 11:16:13.000000000 Z
 - name: eslint-config-next
   description: ESLint configuration used by Next.js
   package_url: https://www.npmjs.com/eslint-config-next
-  version: 14.0.0
+  version: 14.2.3
   open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
@@ -213,12 +213,12 @@ tools:
   image_url: https://img.stackshare.io/package/npm/image.png
   detection_source_url: https://github.com/EdiJunior88/world-portfolios/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: LN
-  last_updated_on: 2023-11-06 16:00:24.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-04-29 08:47:17.000000000 Z
 - name: react-bootstrap
   description: Bootstrap 3 components built with React
   package_url: https://www.npmjs.com/react-bootstrap
-  version: 2.9.1
+  version: 2.10.2
   license: MIT
   open_source: true
   hosted_saas: false
@@ -227,12 +227,12 @@ tools:
   image_url: https://img.stackshare.io/package/16383/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
   detection_source_url: https://github.com/EdiJunior88/world-portfolios/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: LN
-  last_updated_on: 2023-11-06 16:00:24.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-03-18 08:08:06.000000000 Z
 - name: react-dom
   description: React package for working with the DOM
   package_url: https://www.npmjs.com/react-dom
-  version: 18.2.0
+  version: 18.3.1
   license: MIT
   open_source: true
   hosted_saas: false
@@ -241,8 +241,8 @@ tools:
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: https://github.com/EdiJunior88/world-portfolios/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: LN
-  last_updated_on: 2023-11-06 16:00:24.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-03-18 08:08:06.000000000 Z
 - name: uuid
   description: RFC4122
   package_url: https://www.npmjs.com/uuid
@@ -255,5 +255,5 @@ tools:
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: https://github.com/EdiJunior88/world-portfolios/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: LN
-  last_updated_on: 2023-11-08 23:01:09.000000000 Z
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-03-03 11:16:13.000000000 Z
