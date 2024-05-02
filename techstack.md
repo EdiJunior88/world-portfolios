@@ -3,14 +3,14 @@
 ## Tech Stack
 EdiJunior88/world-portfolios is built on the following main stack:
 
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [ESLint](http://eslint.org/) – Code Review
+- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
+- [ESLint](http://eslint.org/) – Code Review
 - [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
@@ -21,14 +21,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 EdiJunior88/world-portfolios is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EdiJunior88/world-portfolios](https://github.com/EdiJunior88/world-portfolios)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|02/04/24 <br/>Report generated|
+|19<br/>Tools used|05/02/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -80,7 +80,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://nextjs.org/">Next.js</a></sub>
   <br>
-  <sub>v14.0.0</sub>
+  <sub>v14.2.3</sub>
 </td>
 
 <td align='center'>
@@ -96,7 +96,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://reactjs.org/">React</a></sub>
   <br>
-  <sub>v18.2.0</sub>
+  <sub>v18.3.1</sub>
 </td>
 
 <td align='center'>
@@ -133,7 +133,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://prettier.io/">Prettier</a></sub>
   <br>
-  <sub>v3.1.0</sub>
+  <sub>v3.2.5</sub>
 </td>
 
 <td align='center'>
@@ -154,14 +154,14 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@types/node](https://www.npmjs.com/@types/node)|v20.8.10|11/08/23|LN |MIT|N/A|
-|[@types/react](https://www.npmjs.com/@types/react)|v18.2.36|11/08/23|LN |MIT|N/A|
-|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.2.14|11/08/23|LN |MIT|N/A|
-|[@types/uuid](https://www.npmjs.com/@types/uuid)|v9.0.7|11/08/23|LN |MIT|N/A|
-|[eslint-config-next](https://www.npmjs.com/eslint-config-next)|v14.0.0|11/06/23|LN |N/A|N/A|
-|[react-bootstrap](https://www.npmjs.com/react-bootstrap)|v2.9.1|11/06/23|LN |MIT|N/A|
-|[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|11/06/23|LN |MIT|N/A|
-|[uuid](https://www.npmjs.com/uuid)|v9.0.1|11/08/23|LN |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v20.11.24|03/03/24|dependabot[bot] |MIT|N/A|
+|[@types/react](https://www.npmjs.com/@types/react)|v18.2.36|03/18/24|dependabot[bot] |MIT|N/A|
+|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.3.0|03/18/24|dependabot[bot] |MIT|N/A|
+|[@types/uuid](https://www.npmjs.com/@types/uuid)|v9.0.8|03/03/24|dependabot[bot] |MIT|N/A|
+|[eslint-config-next](https://www.npmjs.com/eslint-config-next)|v14.2.3|04/29/24|dependabot[bot] |N/A|N/A|
+|[react-bootstrap](https://www.npmjs.com/react-bootstrap)|v2.10.2|03/18/24|dependabot[bot] |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v18.3.1|03/18/24|dependabot[bot] |MIT|N/A|
+|[uuid](https://www.npmjs.com/uuid)|v9.0.1|03/03/24|dependabot[bot] |MIT|N/A|
 
 <br/>
 <div align='center'>
