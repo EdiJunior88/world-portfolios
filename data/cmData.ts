@@ -895,7 +895,7 @@ const cmData: CountryData[] = [
   {
     name: "Arthur KOUAM",
     link: "https://arthurkouam.fr",
-    tags: [ "FrontEnd", "Mobile", "Backend" ],
+    tags: ["FrontEnd", "Mobile", "Backend"],
     socials: {
       twitter: "kouamWeb",
       github: "ArthurKouam",
@@ -975,7 +975,7 @@ const cmData: CountryData[] = [
   {
     name: "Nji Daniel",
     link: "https://njidaniel.com/",
-    tags: ["FrontEnd", "BackEnd", "Mobile", "SOCIALS"],
+    tags: ["FrontEnd", "BackEnd", "Mobile", "AI"],
     socials: {
       twitter: "",
       github: "Daniel-TheProgrammer",
