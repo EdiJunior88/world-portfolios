@@ -972,6 +972,16 @@ const cmData: CountryData[] = [
       linkedin: "wilson-ngahemeni",
     },
   },
+  {
+    name: "Nji Daniel",
+    link: "https://njidaniel.com/",
+    tags: ["FrontEnd", "BackEnd", "Mobile", "SOCIALS"],
+    socials: {
+      twitter: "",
+      github: "Daniel-TheProgrammer",
+      linkedin: "nji-daniel-96b964183",
+    },
+  },
 ];
 
 export { cmData };
