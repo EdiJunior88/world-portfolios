@@ -1,18 +1,6 @@
 import type CountryData from "@/interfaces/countryData.interface";
 
 const cmData: CountryData[] = [
-
-  {
-    name: "Darix SAMANI SIEWE",
-    link: "https://darixsamani.github.io/",
-    tags: ["FrontEnd", "BackEnd", "Mbile"],
-    socials: {
-      twitter: "darixsamani1",
-      github: "darixsamani",
-      linkedin: "darixsamani",
-    },
-  },
-
   {
     name: "Leonel Ngoya",
     link: "https://lndev.me",
@@ -992,6 +980,16 @@ const cmData: CountryData[] = [
       twitter: "",
       github: "Daniel-TheProgrammer",
       linkedin: "nji-daniel-96b964183",
+    },
+  },
+    {
+    name: "Darix SAMANI SIEWE",
+    link: "https://darixsamani.github.io/",
+    tags: ["FrontEnd", "BackEnd", "Mobile"],
+    socials: {
+      twitter: "darixsamani1",
+      github: "darixsamani",
+      linkedin: "darixsamani",
     },
   },
 ];
